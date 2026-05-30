@@ -56,9 +56,9 @@ me.say_hi()
 
 | 🔧 Project | 📌 Description | 🏷️ Tags |
 |---|---|---|
-| 🤚 **[Hand Gesture Recognition to Voice](https://github.com/sanjaybx1)** | Converts hand gestures into voice output using ML | `Python` `ML` `CV` |
-| 🖼️ **[Image Steganography](https://github.com/sanjaybx1)** | Hides secret data securely inside images | `Python` `Cryptography` `Security` |
-| ⚽ **[Match Prediction using ML](https://github.com/sanjaybx1)** | Predicts match outcomes using machine learning | `Python` `ML` `Data Science` |
+| 🤚 **[Hand Gesture Recognition to Voice](https://github.com/sanjaybx1/Hand-Gesture-Recogination)** | Converts hand gestures into voice output using ML | `Python` `ML` `CV` |
+| 🖼️ **[Image Steganography](https://github.com/sanjaybx1/image-steganography)** | Hides secret data securely inside images | `Python` `Cryptography` `Security` |
+| ⚽ **[Match Prediction using ML](https://github.com/sanjaybx1/ipl-data-prediction)** | Predicts match outcomes using machine learning | `Python` `ML` `Data Science` |
 
 ---
 
