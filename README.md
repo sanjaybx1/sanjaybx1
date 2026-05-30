@@ -53,7 +53,6 @@ me.say_hi()
 | 💣 **[Repo Name]** | Brief description of what it does | `Exploitation` `Bash` |
 | 🛡️ **[Repo Name]** | Brief description of what it does | `Defense` `Automation` |
 
-> 📌 *Replace placeholders above with your actual repo names & links!*
 
 ---
 
@@ -62,7 +61,7 @@ me.say_hi()
 <div align="center">
 
 ### 🔴 Offensive
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white,https://www.kali.org/)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
