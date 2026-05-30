@@ -42,17 +42,6 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tools & Scripts I've Built
-
-> *Real security skills leave traces — in code.*
-
-| 🔧 Tool / Script | 📌 Description | 🏷️ Tags |
-|---|---|---|
-| 🔍 **[Repo Name]** | Brief description of what it does | `Python` `VAPT` |
-| 🕵️ **[Repo Name]** | Brief description of what it does | `Forensics` `CLI` |
-| 💣 **[Repo Name]** | Brief description of what it does | `Exploitation` `Bash` |
-| 🛡️ **[Repo Name]** | Brief description of what it does | `Defense` `Automation` |
-
 
 ---
 
@@ -61,7 +50,7 @@ me.say_hi()
 <div align="center">
 
 ### 🔴 Offensive
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white,https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white,https://www.kali.org/)](https://kali.org
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
